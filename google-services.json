@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164771787512",
+    "project_id": "four-lines-game",
+    "storage_bucket": "four-lines-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164771787512:android:b4e89e7b8f837253afc10d",
+        "android_client_info": {
+          "package_name": "site.fourlinesgame.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pflrDS0Gnv4QGqAA30K6hkg7zq-Gztw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
